@@ -152,6 +152,8 @@ ModelImporter:
     100288: silver_8
     100290: silver_9
     100292: stwheel_1
+    100294: plastic_53_MeshPart0
+    100296: plastic_53_MeshPart1
     400000: black_1
     400002: black_10
     400004: black_2
@@ -299,6 +301,8 @@ ModelImporter:
     400288: silver_8
     400290: silver_9
     400292: stwheel_1
+    400294: plastic_53_MeshPart0
+    400296: plastic_53_MeshPart1
     2300000: black_1
     2300002: black_10
     2300004: black_2
@@ -445,6 +449,8 @@ ModelImporter:
     2300286: silver_8
     2300288: silver_9
     2300290: stwheel_1
+    2300292: plastic_53_MeshPart0
+    2300294: plastic_53_MeshPart1
     3300000: black_1
     3300002: black_10
     3300004: black_2
@@ -591,6 +597,8 @@ ModelImporter:
     3300286: silver_8
     3300288: silver_9
     3300290: stwheel_1
+    3300292: plastic_53_MeshPart0
+    3300294: plastic_53_MeshPart1
     4300000: body_1
     4300002: plastic_1
     4300004: chrome_1
@@ -737,6 +745,8 @@ ModelImporter:
     4300286: plastic_53
     4300288: plastic_54
     4300290: plastic_55
+    4300292: plastic_53_MeshPart0
+    4300294: plastic_53_MeshPart1
   materials:
     importMaterials: 1
     materialName: 0
@@ -766,7 +776,7 @@ ModelImporter:
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
