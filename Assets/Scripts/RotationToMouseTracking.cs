@@ -107,4 +107,15 @@ public class RotationToMouseTracking : MonoBehaviour
     /// Object to rotate around instead on inplace (Optional)
     /// </summary>
     [SerializeField] private GameObject Anchor;
+
+    public bool EnableXRotation
+    {
+        get { return RotateX; }
+        set { RotateX = value; }
+    }
+    public bool EnableYRotation
+    {
+        get { return RotateY; }
+        set { RotateY = value; }
+    }
 }
